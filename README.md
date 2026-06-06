@@ -1,93 +1,65 @@
-# Hey there 👋 I'm Sudhanshu Kumar
+# Hey there 👋
 
-### Aspiring Software Engineer · Full Stack Builder · Problem Solver
+I'm Sudhanshu, a Computer Science student and aspiring Software Engineer from India.
 
-[![LinkedIn]https://static.vecteezy.com/system/resources/previews/021/460/490/original/linkedin-logo-free-download-free-png.png)](https://www.linkedin.com/in/sudhanshu-kumar-4a16242a7/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_Sudhanshu_Kumar_/)
+I enjoy solving problems, building full-stack web applications, and learning modern software development technologies. Most of my work revolves around Java, React, Node.js, and databases.
 
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```java
-public class Sudhanshu {
-
-    String[] name     = { "Sudhanshu", "Kumar" };
-    String   location = "India 🇮🇳";
-    String   study    = "B.Tech CSE @ Galgotias University (2023–2027)";
-
-    String[] currentlyBuilding = { "LOOMLIVE – a craft-tech platform for artisans" };
-    String[] learning          = { "Spring Boot", "System Design", "DSA deep-dives" };
-    String   goal              = "Build software that's simple, useful & impactful";
-
-    int      problemsSolved    = 350; // and counting...
-}
-```
+Currently focused on improving my Data Structures & Algorithms skills while building real-world projects.
 
 ---
 
-## 🛠️ Tech Stack
+## Tools & Tech
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+- Java, Python, JavaScript, C++
+- Object-Oriented Programming (OOP)
+- React.js, HTML, Tailwind CSS
+- Node.js, Express.js
+- MongoDB, MySQL
+- Git & GitHub
+- VS Code
 
 ---
 
-## 🚀 Projects
+## Featured Projects
 
-### 🖐️ Indian Sign Language → Text Converter
-> *Python · TensorFlow · Keras · MediaPipe · OpenCV*
+### Indian Sign Language to Text Converter
+- Built a real-time ISL-to-text system using MediaPipe, OpenCV, TensorFlow, and Keras.
+- Used a CNN-LSTM model for gesture recognition.
+- Generated real-time English text from sign language gestures.
+- Improved accessibility for deaf and mute individuals.
 
-A real-time ISL-to-text system that bridges communication between deaf/mute individuals and the general public. Powered by a CNN-LSTM model, it reads hand gestures live and outputs English text — built to improve accessibility at its core.
-
-[→ View on GitHub](#)
-
----
-
-### 🧵 LOOMLIVE — Craft-Tech Platform *(Ongoing)*
-> *Java · MySQL · JavaScript · HTML · CSS*
-
-Connecting artisans directly with customers through a made-to-order model with real-time order tracking. Features artisan profiles, product management, region-based authenticity badges, and transparent pricing — no middlemen.
-
-[→ View on GitHub](#)
+### LOOMLIVE (Ongoing)
+- Craft-tech platform connecting artisans directly with customers.
+- Real-time tracking and made-to-order product model.
+- Built using Java, JavaScript, MySQL, HTML, and CSS.
+- Focused on transparency, authenticity, and direct communication.
 
 ---
 
-## 🏆 Achievements & Certifications
+## Achievements
 
-- 🧩 **350+ problems** solved across coding platforms
-- 📜 **Web Development Fundamentals** — IBM SkillsBuild
+🏆 Solved **350+ coding problems** across various platforms.
+
+📚 Certified in:
+- Web Development Fundamentals – IBM SkillsBuild
 
 ---
 
-<div align="center">
+## A Bit About Me
 
+- 💻 Passionate about Software Development
+- 📖 Always learning new technologies
+- 🚀 Interested in Full Stack Development
+- 🧩 Enjoy solving DSA and LeetCode problems
 
-**Thanks for stopping by! Let's build something great together 🚀**
+---
 
-</div>
+## Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/sudhanshu-kumar-4a16242a7/
+
+💻 LeetCode: https://leetcode.com/u/_Sudhanshu_Kumar_/
+
+---
+
+> Building projects, improving every day, and preparing for Software Engineering opportunities.
