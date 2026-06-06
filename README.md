@@ -57,7 +57,6 @@ Currently focused on improving my Data Structures & Algorithms skills while buil
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-kumar-4a16242a7/)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_Sudhanshu_Kumar_/)
 
 ---
