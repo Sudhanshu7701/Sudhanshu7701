@@ -47,7 +47,6 @@ public class Sudhanshu {
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -79,38 +78,15 @@ Connecting artisans directly with customers through a made-to-order model with r
 
 ---
 
-## 💼 Experience
-
-**AICTE Java Full Stack Virtual Internship** · EduSkills *(Oct 2025 – Dec 2025)*
-> Built full-stack apps with Java, Spring Boot, and MySQL. Gained hands-on experience with REST APIs, database integration, and scalable architecture.
-
----
-
 ## 🏆 Achievements & Certifications
 
 - 🧩 **350+ problems** solved across coding platforms
-- 📜 **Data Science & Analytics** — HP Life
 - 📜 **Web Development Fundamentals** — IBM SkillsBuild
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-![Sudhanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117)
-
-</div>
-
----
-
-<div align="center">
-
-*"Build things that are simple, useful, and easy to understand."*
 
 **Thanks for stopping by! Let's build something great together 🚀**
 
